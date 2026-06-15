@@ -29,7 +29,7 @@
 💡 *I believe technology is most valuable when it solves real-world problems and creates opportunities for people.*
 
 
-[LinkedIn](https://www.linkedin.com/in/badri-shanmukha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badri-shanmukha/)
 ---
 
 # 🚀 Current Learning Journey
