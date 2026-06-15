@@ -27,7 +27,7 @@
 🏛️ Civil Services Aspirant with an interest in technology-driven governance and innovation.
 
 💡 *I believe technology is most valuable when it solves real-world problems and creates opportunities for people.*
-
+[LinkedIn](https://www.linkedin.com/in/badri-shanmukha/))
 ---
 
 # 🚀 Current Learning Journey
